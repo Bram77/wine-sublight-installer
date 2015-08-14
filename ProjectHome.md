@@ -1,0 +1,1 @@
+A installer script for Sublight installation in Wine
